@@ -1,0 +1,4 @@
+to setup this enviroment:
+please open the Terminal/cmd inside this main folder and type "npm install".
+
+all packages from th packages.json file will be installed in this folder.
