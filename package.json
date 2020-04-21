@@ -1,7 +1,7 @@
 {
-  "name": "forkify",
+  "name": "tipCalculator",
   "version": "1.0.0",
-  "description": "forkify project",
+  "description": "tip calculator project",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
